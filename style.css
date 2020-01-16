@@ -186,14 +186,14 @@ a:hover .section-subheader {
 }
 .section.social-twitter {
     text-align: left;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .section.social-twitter > .section {
     padding: 0;
     max-width: 500px;
 }
 .section.social-twitter > .section.social {
-    flex: 1 2 auto;
+    flex: 1 1 auto;
 }
 .section.social-twitter > .section.twitter {
     flex: 1 1 auto;
