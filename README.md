@@ -4,7 +4,7 @@
 # Focusing-Theme
 
   
-The HTML theme for everyone ([link](https://gokoro.me/Focusing-Theme))
+The HTML theme for everyone
 
 ## Library
 
